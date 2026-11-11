@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500" font-family="Arial" font-size="12">
+<rect width="900" height="500" fill="white"/>
+<text x="450.0" y="18" text-anchor="middle" font-size="15">y(x) = a1·sin(b1·x) + a2·sin(b2·x) + a3·sin(b3·x)</text>
+<text x="450.0" y="34" text-anchor="middle" fill="#555">a1=1, b1=1, a2=0,5, b2=2, a3=0,25, b3=3, x0=0, xк=6,28, Δx=0,1</text>
+<line x1="60.0" y1="40" x2="60.0" y2="455" stroke="#ddd"/>
+<text x="60.0" y="471" text-anchor="middle">0</text>
+<line x1="192.3" y1="40" x2="192.3" y2="455" stroke="#ddd"/>
+<text x="192.3" y="471" text-anchor="middle">1</text>
+<line x1="324.5" y1="40" x2="324.5" y2="455" stroke="#ddd"/>
+<text x="324.5" y="471" text-anchor="middle">2</text>
+<line x1="456.8" y1="40" x2="456.8" y2="455" stroke="#ddd"/>
+<text x="456.8" y="471" text-anchor="middle">3</text>
+<line x1="589.0" y1="40" x2="589.0" y2="455" stroke="#ddd"/>
+<text x="589.0" y="471" text-anchor="middle">4</text>
+<line x1="721.3" y1="40" x2="721.3" y2="455" stroke="#ddd"/>
+<text x="721.3" y="471" text-anchor="middle">5</text>
+<line x1="853.5" y1="40" x2="853.5" y2="455" stroke="#ddd"/>
+<text x="853.5" y="471" text-anchor="middle">6</text>
+<line x1="60" y1="452.0" x2="880" y2="452.0" stroke="#ddd"/>
+<text x="54" y="456.0" text-anchor="end">-1.5</text>
+<line x1="60" y1="383.9" x2="880" y2="383.9" stroke="#ddd"/>
+<text x="54" y="387.9" text-anchor="end">-1.0</text>
+<line x1="60" y1="315.8" x2="880" y2="315.8" stroke="#ddd"/>
+<text x="54" y="319.8" text-anchor="end">-0.5</text>
+<line x1="60" y1="247.7" x2="880" y2="247.7" stroke="#ddd"/>
+<text x="54" y="251.7" text-anchor="end">0.0</text>
+<line x1="60" y1="179.6" x2="880" y2="179.6" stroke="#ddd"/>
+<text x="54" y="183.6" text-anchor="end">0.5</text>
+<line x1="60" y1="111.4" x2="880" y2="111.4" stroke="#ddd"/>
+<text x="54" y="115.4" text-anchor="end">1.0</text>
+<line x1="60" y1="43.3" x2="880" y2="43.3" stroke="#ddd"/>
+<text x="54" y="47.3" text-anchor="end">1.5</text>
+<line x1="60" y1="247.7" x2="880" y2="247.7" stroke="black"/>
+<line x1="60.0" y1="40" x2="60.0" y2="455" stroke="black"/>
+<rect x="60" y="40" width="820" height="415" fill="none" stroke="#888"/>
+<polyline points="60.00,247.67 73.23,210.48 86.45,174.85 99.68,142.28 112.90,114.02 126.13,91.08 139.35,74.11 152.58,63.39 165.81,58.86 179.03,60.08 192.26,66.30 205.48,76.57 218.71,89.77 231.94,104.72 245.16,120.30 258.39,135.47 271.61,149.41 284.84,161.52 298.06,171.47 311.29,179.19 324.52,184.87 337.74,188.87 350.97,191.74 364.19,194.07 377.42,196.48 390.65,199.52 403.87,203.62 417.10,209.06 430.32,215.93 443.55,224.15 456.77,233.44 470.00,243.43 483.23,253.62 496.45,263.52 509.68,272.66 522.90,280.67 536.13,287.30 549.35,292.51 562.58,296.40 575.81,299.30 589.03,301.65 602.26,304.03 615.48,307.05 628.71,311.30 641.94,317.30 655.16,325.39 668.39,335.72 681.61,348.17 694.84,362.36 708.06,377.67 721.29,393.21 734.52,407.95 747.74,420.74 760.97,430.40 774.19,435.84 787.42,436.14 800.65,430.59 813.87,418.82 827.10,400.81 840.32,376.92 853.55,347.86 866.77,314.67 880.00,278.68" fill="none" stroke="#1f5fbf" stroke-width="2"/>
+<text x="880" y="492" text-anchor="end">x</text>
+<text x="12" y="34">y</text>
+</svg>
